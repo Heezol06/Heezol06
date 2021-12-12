@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shahriar-Rahman Heezol | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shahriar-Rahman Heezol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="roy__jon__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="roy__jon__" width="22px" src="https://angry-bartik-096e47.netlify.app/" />][website]
+[<img align="left" alt="Shahriar-Rahman Heezol | Twitter" width="22px" src="https://twitter.com/SHeezol" />][twitter]
+[<img align="left" alt="Shahriar-Rahman Heezol | LinkedIn" width="22px" src="https://www.linkedin.com/in/sr-heezol/" />][linkedin]
+[<img align="left" alt="roy__jon__ | Instagram" width="22px" src="https://www.instagram.com/roy__jon__/" />][instagram]
 
 <br />
 
