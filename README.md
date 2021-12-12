@@ -11,13 +11,6 @@
 - 🥅 2021 Goals: React, Mongo, Node, Express, Authentication.
 - ⚡ Fun fact: I love to watch movie and series.
 
-### Connect with me:
-
-[<img align="left" alt="roy__jon__" width="22px" src="https://angry-bartik-096e47.netlify.app/" />][website]
-[<img align="left" alt="Shahriar-Rahman Heezol | Twitter" width="22px" src="https://twitter.com/SHeezol" />][twitter]
-[<img align="left" alt="Shahriar-Rahman Heezol | LinkedIn" width="22px" src="https://www.linkedin.com/in/sr-heezol/" />][linkedin]
-[<img align="left" alt="roy__jon__ | Instagram" width="22px" src="https://www.instagram.com/roy__jon__/" />][instagram]
-
 <br />
 
 ### Languages and Tools:
