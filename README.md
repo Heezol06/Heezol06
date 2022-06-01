@@ -1,7 +1,8 @@
 ### Hi there, I'm [Shahriar Rahman Heezol][website] 👋
 
 [![Website](https://angry-bartik-096e47.netlify.app/)](https://angry-bartik-096e47.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<br/>
+[![Twitter Follow] [https://twitter.com/codeSTACKr](https://twitter.com/SHeezol)
 
 ## I'm a Engineer, Developer, and Student!!
 
